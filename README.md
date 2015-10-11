@@ -20,13 +20,17 @@ Some tutorials and references:
 * Advanced Bash-Scripting Guide: [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
 * [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
 * [sed](https://code.google.com/p/rudix/wiki/sed)
+* [Text processing with Unix: IBM Developerworks](http://www.ibm.com/developerworks/aix/library/au-textprocess.html)
 
 More powerful tools for advanced text processing operations:
 ###[AWK](https://en.wikipedia.org/wiki/AWK)
 * [AWK By Example](http://www.funtoo.org/Awk_by_Example,_Part_1)
-* [`pyp`](https://code.google.com/p/pyp/), grep/sed/AWK for the Python-inclined
+
+###[`pyp`](https://code.google.com/p/pyp/), grep/sed/AWK for the Python-inclined
   * [Python tips and tricks](http://www.cs.cmu.edu/~nschneid/pythonathan/)
 
+### Bash scripting basics
+* [One page tutorial from linuxconfig] (http://linuxconfig.org/bash-scripting-tutorial)
 
 ## No input stream
 
