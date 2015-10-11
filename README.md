@@ -1,12 +1,7 @@
 # Unix Text Processing Command Reference
 
-### [Nathan Schneider][nschneid], 2013-01-29
-
-[nschneid]: http://nathan.cl
-
-This is intended as a quick reference for text processing commands built into Unix. It is terse and not necessarily comprehensive—YMMV.
-
-Suggestions? Contact the author or submit a pull request.
+Forked from: [nschneid]: http://nathan.cl
+This is intended as a quick reference for text processing commands built into Unix. It is terse and not necessarily comprehensive—YMMV. Suggestions? Contact the author or submit a pull request.
 
 Notes about the commands below:
 
@@ -24,11 +19,11 @@ Some tutorials and references:
 * Na-Rae Han’s [Command-line Magic](http://www.pitt.edu/~naraehan/commandline-magic.pdf)
 * Advanced Bash-Scripting Guide: [Text Processing Commands](http://tldp.org/LDP/abs/html/textproc.html)
 * [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
-  * for Mac OS X: [coreutils](https://code.google.com/p/rudix/wiki/coreutils), [sed](https://code.google.com/p/rudix/wiki/sed) (BSD implementations are built-in on OS X)
+* [sed](https://code.google.com/p/rudix/wiki/sed)
 
 More powerful tools for advanced text processing operations:
-
-* [`AWK`](https://en.wikipedia.org/wiki/AWK)
+###[AWK](https://en.wikipedia.org/wiki/AWK)
+* [AWK By Example](http://www.funtoo.org/Awk_by_Example,_Part_1)
 * [`pyp`](https://code.google.com/p/pyp/), grep/sed/AWK for the Python-inclined
   * [Python tips and tricks](http://www.cs.cmu.edu/~nschneid/pythonathan/)
 
